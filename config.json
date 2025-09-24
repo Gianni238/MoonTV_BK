@@ -12,7 +12,7 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
     "aosikazy": {
-      "api": "https://aosikazy.com/api.php/provide/vod",
+      "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
       "name": "AV-奥斯卡资源",
       "detail": "https://aosikazy.com"
     },
