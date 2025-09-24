@@ -6,10 +6,15 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-     "heimuer": {
+     "ttyzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dytt",
       "name": "天堂云资源",
       "detail": "http://caiji.dyttzyapi.com"
+    },
+    "aosikazy": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "AV-奥斯卡资源",
+      "detail": "https://aosikazy.com"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
